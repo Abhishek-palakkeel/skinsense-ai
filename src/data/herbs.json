@@ -1,0 +1,122 @@
+[
+  {
+    "id": "aloe-vera",
+    "commonName": "Aloe Vera",
+    "malayalamName": "കറ്റാർവാഴ (Kattarvazha)",
+    "scientificName": "Aloe barbadensis miller",
+    "emoji": "🌿",
+    "traditionalUse": "Cooling agent for sunburn, heat rash, superficial burns and inflamed acne in Ayurvedic and household Kerala practice.",
+    "preparation": "Slice a mature leaf, drain the yellow latex for 10 minutes, then scoop the clear inner gel and blend briefly.",
+    "application": "Apply a thin layer to clean skin, leave 15-20 minutes, rinse with cool water. Use up to once daily.",
+    "safety": "Discard the yellow latex — it is a skin irritant and laxative. Avoid on open or weeping wounds.",
+    "patchTest": "Apply gel to the inner forearm and wait 24 hours before facial use.",
+    "supports": ["redness", "dehydration", "sun-damage", "acne"],
+    "references": [
+      "Surjushe A. et al., Aloe vera: a short review, Indian J Dermatol, 2008",
+      "WHO Monographs on Selected Medicinal Plants, Vol. 1"
+    ]
+  },
+  {
+    "id": "turmeric",
+    "commonName": "Turmeric",
+    "malayalamName": "മഞ്ഞൾ (Manjal)",
+    "scientificName": "Curcuma longa",
+    "emoji": "🟡",
+    "traditionalUse": "Anti-inflammatory and antimicrobial paste used before weddings and for blemishes across South India.",
+    "preparation": "Mix 1/4 teaspoon Kasturi turmeric with 1 tablespoon yoghurt or raw honey into a smooth paste.",
+    "application": "Apply to affected areas for 10 minutes, twice weekly, then rinse thoroughly.",
+    "safety": "Culinary turmeric stains skin and fabric; Kasturi (wild) turmeric is preferred cosmetically. Not for broken skin.",
+    "patchTest": "Test on the jawline for 24 hours — staining and contact dermatitis are both possible.",
+    "supports": ["acne", "pigmentation", "dullness"],
+    "references": [
+      "Vaughn AR. et al., Effects of turmeric on skin health, Phytother Res, 2016",
+      "Ayurvedic Pharmacopoeia of India, Part I"
+    ]
+  },
+  {
+    "id": "neem",
+    "commonName": "Neem",
+    "malayalamName": "ആര്യവേപ്പ് (Aryaveppu)",
+    "scientificName": "Azadirachta indica",
+    "emoji": "🍃",
+    "traditionalUse": "Traditional antibacterial and antifungal support for acne, folliculitis and itchy scalp conditions.",
+    "preparation": "Boil a handful of fresh leaves in 500 ml water for 10 minutes, cool and strain to make a rinse; or grind leaves into a paste.",
+    "application": "Use the cooled decoction as a final rinse, or apply the paste for 10 minutes twice weekly.",
+    "safety": "Never ingest neem oil. Avoid during pregnancy. Can be drying with frequent use.",
+    "patchTest": "24-hour forearm test; neem is a common contact sensitiser.",
+    "supports": ["acne", "fungal-concerns", "oiliness"],
+    "references": [
+      "Alzohairy MA., Therapeutic role of Azadirachta indica, Evid Based Complement Alternat Med, 2016"
+    ]
+  },
+  {
+    "id": "sandalwood",
+    "commonName": "Sandalwood",
+    "malayalamName": "ചന്ദനം (Chandanam)",
+    "scientificName": "Santalum album",
+    "emoji": "🪵",
+    "traditionalUse": "Classic Kerala cooling paste for heat rash, prickly heat, redness and post-acne marks.",
+    "preparation": "Grind a sandalwood stick on a wet stone, or mix 1 teaspoon pure powder with rose water.",
+    "application": "Apply a thin layer, let it dry for 15 minutes, rinse with cool water. Two to three times weekly.",
+    "safety": "Use genuine Santalum album powder; adulterated powders often contain dyes. Not for very dry skin.",
+    "patchTest": "24-hour forearm test before facial use.",
+    "supports": ["redness", "heat-rash", "pigmentation"],
+    "references": ["Moy RL, Levenson C., Sandalwood album oil as a botanical therapeutic, J Clin Aesthet Dermatol, 2017"]
+  },
+  {
+    "id": "tulsi",
+    "commonName": "Holy Basil",
+    "malayalamName": "തുളസി (Thulasi)",
+    "scientificName": "Ocimum sanctum",
+    "emoji": "🌱",
+    "traditionalUse": "Used as an antibacterial wash for breakouts and minor skin infections in household Ayurveda.",
+    "preparation": "Steep 10-12 fresh leaves in hot water for 15 minutes; cool completely before use.",
+    "application": "Use as a toner on cotton once daily, or add the paste to a clay mask weekly.",
+    "safety": "Generally well tolerated. Avoid the concentrated essential oil undiluted.",
+    "patchTest": "24-hour forearm test with the infusion.",
+    "supports": ["acne", "oiliness"],
+    "references": ["Cohen MM., Tulsi - Ocimum sanctum: A herb for all reasons, J Ayurveda Integr Med, 2014"]
+  },
+  {
+    "id": "coconut-oil",
+    "commonName": "Virgin Coconut Oil",
+    "malayalamName": "വെളിച്ചെണ്ണ (Velichenna)",
+    "scientificName": "Cocos nucifera",
+    "emoji": "🥥",
+    "traditionalUse": "Everyday Kerala emollient for dry skin, infant skin care and eczema-prone body skin.",
+    "preparation": "Use cold-pressed virgin coconut oil, warmed slightly between the palms.",
+    "application": "Apply to damp body skin after bathing. Avoid the face if you are acne-prone.",
+    "safety": "Comedogenic on facial skin for many people. Excellent for the body, risky for the T-zone.",
+    "patchTest": "48-hour test on the jawline if you plan facial use.",
+    "supports": ["dryness", "barrier-damage", "eczema-prone"],
+    "references": ["Evangelista MTP. et al., The effect of topical virgin coconut oil on atopic dermatitis, Int J Dermatol, 2014"]
+  },
+  {
+    "id": "gotu-kola",
+    "commonName": "Gotu Kola",
+    "malayalamName": "കുടങ്ങൽ (Kudangal)",
+    "scientificName": "Centella asiatica",
+    "emoji": "🌾",
+    "traditionalUse": "Wound healing and scar softening herb; the source of modern 'cica' skincare.",
+    "preparation": "Grind fresh leaves into a paste, or use a standardised centella extract serum.",
+    "application": "Apply to healing marks once daily for 10-15 minutes, or use the extract morning and night.",
+    "safety": "Avoid on active infected lesions. Discontinue if itching develops.",
+    "patchTest": "24-hour forearm test.",
+    "supports": ["scarring", "barrier-damage", "redness"],
+    "references": ["Bylka W. et al., Centella asiatica in dermatology, Phytother Res, 2014"]
+  },
+  {
+    "id": "rose-water",
+    "commonName": "Rose Water",
+    "malayalamName": "പനിനീർ (Panineer)",
+    "scientificName": "Rosa damascena",
+    "emoji": "🌹",
+    "traditionalUse": "Gentle hydrating and calming toner used across Indian skincare traditions.",
+    "preparation": "Steam-distilled rose water only; avoid fragrance-added rose 'water'.",
+    "application": "Mist or pat onto clean skin morning and night before moisturiser.",
+    "safety": "Check labels for added alcohol or synthetic fragrance which can irritate.",
+    "patchTest": "24-hour forearm test.",
+    "supports": ["dehydration", "redness"],
+    "references": ["Mahboubi M., Rosa damascena as holy ancient herb with novel applications, J Tradit Complement Med, 2016"]
+  }
+]
